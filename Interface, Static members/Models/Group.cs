@@ -26,6 +26,19 @@ namespace Interface__Static_members.Models
         {
             Console.WriteLine($"Group Name: {GroupName}, Count: {GroupCount}");
         }
+        //public Student GetStudent(int id)
+        //{
+        //    foreach (var group in Groups) {
+        //        for (int i = 0; i < Students.Length; i++)
+        //        {
+        //            if (Students[i].Id == id)
+        //            {
+        //               return Students[i];
+        //            }
+        //            return null;
+        //        }
+        //    }
+        //}
         public void AddStudent(Student student)
         {
             Array.Resize(ref Students, Students.Length + 1);

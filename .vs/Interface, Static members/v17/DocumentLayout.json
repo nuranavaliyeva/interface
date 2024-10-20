@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nuran\\Desktop\\Interface, Static members\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|c:\\users\\nuran\\desktop\\interface, static members\\interface, static members\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|c:\\users\\nuran\\desktop\\interface, static members\\interface, static members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|c:\\users\\nuran\\desktop\\interface, static members\\interface, static members\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7234EE1B-6968-4FBC-A536-5FFDD629CBC7}|Interface, Static members\\Interface, Static members.csproj|c:\\users\\nuran\\desktop\\interface, static members\\interface, static members\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\Interface, Static members\\Interface, Static members\\Models\\Group.cs",
               "RelativeDocumentMoniker": "Interface, Static members\\Models\\Group.cs",
               "ToolTip": "C:\\Users\\Nuran\\Desktop\\Interface, Static members\\Interface, Static members\\Models\\Group.cs",
               "RelativeToolTip": "Interface, Static members\\Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T18:15:42.55Z",
               "EditorCaption": ""
@@ -51,7 +51,8 @@
               "RelativeToolTip": "Interface, Static members\\Interfaces\\ICodeAcademy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIAwwAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T10:50:09.5Z"
+              "WhenOpened": "2024-10-20T10:50:09.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,21 +62,23 @@
               "RelativeDocumentMoniker": "Interface, Static members\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Nuran\\Desktop\\Interface, Static members\\Interface, Static members\\Models\\Student.cs",
               "RelativeToolTip": "Interface, Static members\\Models\\Student.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAA/wAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:15:09.24Z"
+              "WhenOpened": "2024-10-19T18:15:09.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\Interface, Static members\\Interface, Static members\\Program.cs",
               "RelativeDocumentMoniker": "Interface, Static members\\Program.cs",
               "ToolTip": "C:\\Users\\Nuran\\Desktop\\Interface, Static members\\Interface, Static members\\Program.cs",
               "RelativeToolTip": "Interface, Static members\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:14:00.959Z"
+              "WhenOpened": "2024-10-19T18:14:00.959Z",
+              "EditorCaption": ""
             }
           ]
         }

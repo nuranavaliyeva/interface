@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interface, Static members")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b83188fbaadfff34eeb18e0aba3222a78c9c684")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interface, Static members")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interface, Static members")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

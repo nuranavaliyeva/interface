@@ -16,6 +16,7 @@ namespace Interface__Static_members
             group.AddStudent(student1);
             group.AddStudent(student);
             Group group1= new Group("Group A");
+            
 
 
             group.GetGroupInfo();
@@ -25,7 +26,7 @@ namespace Interface__Static_members
             group.ShowStudents();
             Group.AddGroup(group1);
             Group.AddGroup(group);
-
+        
 
             Group.ShowAllGroups();
 
